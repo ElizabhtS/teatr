@@ -1,0 +1,54 @@
+@media screen and (max-width: 992px){
+    .logo{
+        max-width: 90px;
+        max-height: 90px;
+    }
+    a{
+        font-size: 30px;
+        margin: 15px;
+    }
+    p{
+        font-size: 30px;
+    }
+    .gallery-one img{
+        max-width: 200px;
+        max-height: 150px;
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 768px){
+    .logo{
+        max-width: 90px;
+        max-height: 90px;
+    }
+    a{
+        font-size: 19px;
+        margin: 10px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .gallery-one img{
+        max-width: 150px;
+        max-height: 100px;
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 576px){
+    .logo{
+        max-width: 90px;
+        max-height: 90px;
+    }
+    a{
+        font-size: 19px;
+        margin: 10px;
+    }
+    p{
+        font-size: 15px;
+    }
+    .gallery-one img{
+        max-width: 120px;
+        max-height: 70px;
+        margin: 10px;
+    }
+}
